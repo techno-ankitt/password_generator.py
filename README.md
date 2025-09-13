@@ -1,2 +1,12 @@
-# password_generator.py
-Password Generator is a simple Python program that generates strong random passwords. It uses letters (A–Z, a–z), digits (0–9), and special characters (!, @, #, etc.) to create secure passwords of user-defined length. The program runs in a loop so that users can generate multiple passwords until they decide to exit.
+#Password Generator (Python)
+
+A simple Python program to generate strong random passwords.  
+User can choose password length and generate as many passwords as they want.  
+
+
+#Features
+- Generates random secure passwords
+- Includes letters, numbers, and symbols
+- User chooses password length
+- Loop for multiple password generations
+- Input validation & error handling
